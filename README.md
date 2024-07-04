@@ -4,9 +4,7 @@
 
 <img align="right" alt="Romina" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rominva&label=Profile%20views&color=0e75b6&style=flat" alt="rominva" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rominva" alt="rominva" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
@@ -20,8 +18,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rominva&label=Profile%20views&color=0e75b6&style=flat" alt="rominva" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rominva" alt="rominva" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rominva&show_icons=true&locale=en&layout=compact" alt="rominva" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rominva&show_icons=true&locale=en" alt="rominva" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rominva&" alt="rominva" /></p>
+
+
