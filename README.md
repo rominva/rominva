@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Python**.
 
-- 🍃 I enjoy writing clean code and building innovative solutions.
+- 🌻 I enjoy writing clean code and building innovative solutions.
 
-- 🍂 Always learning and looking for opportunities to grow and contribute to the community.
+- 🌾 Always learning and looking for opportunities to grow and contribute to the community.
   
 - 💪 Let's connect and create something amazing together!
 
