@@ -24,7 +24,7 @@ Mechanical Engineering Graduate → Software Developer</h3>
   - Computer Science Fundamentals
   - Software Development Best Practices
 
-- 🌊 **Fun Fact:** Went into a MechEng internship to turn wrenches, but got thrown a chaotic MATLAB project instead. Plot twist: The code worked, and I realized I prefer software over hardware. RIP to my hard hat.
+- 🌊 **Fun Fact:** Went into a Mechanical Engineering internship to turn wrenches, but got thrown a chaotic MATLAB project instead. Plot twist: The code worked, and I realized I prefer software over hardware. RIP to my hard hat.
 
 
 - 👩‍💻 Explore my work: **[GitHub Portfolio](https://github.com/rominva)**
