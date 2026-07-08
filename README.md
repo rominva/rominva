@@ -86,7 +86,7 @@ Mechanical Engineering Graduate → Software Developer</h3>
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
        alt="Flask"
        width="40"
        height="40"/>
